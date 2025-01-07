@@ -13,9 +13,15 @@ img {
   text-align: center;
 }
 
-.plants{
+.plants {
   display: flex;
   margin: 32px;
+}
+
+.item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* do not edit this footer */
