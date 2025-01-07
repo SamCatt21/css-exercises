@@ -18,7 +18,9 @@ body {
 ul {
   display: flex;
   list-style: none;
-  gap: 8px;
+  gap: 12px;
+  padding: 0;
+  margin: 16px;
 }
 
 a {
